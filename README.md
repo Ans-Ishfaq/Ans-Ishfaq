@@ -8,7 +8,7 @@
 - 💼 LinkedIn: https://www.linkedin.com/in/ans-ishfaq-157b56211/
 
 -<br>
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ans-Ishfaq&hide=typescript,GLSl,Rust)](https://github.com/Ans-Ishfaq/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ans-Ishfaq&hide=typescript,GLSl,Rust)](https://github.com/Ans-Ishfaq/github-readme-stats)
 
 
   
