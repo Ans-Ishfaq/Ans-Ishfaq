@@ -7,7 +7,7 @@
 - 📧 My Email: ansishfaq725@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/ans-ishfaq-157b56211/
 - <br>
-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=typescript,GSl)](https://github.com/anuraghazra/github-readme-stats)
+- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=typescript,GLSl,Rust)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ans-Ishfaq)](https://github.com/anuraghazra/github-readme-stats) -->
