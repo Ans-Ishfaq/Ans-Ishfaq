@@ -18,7 +18,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ans-Ishfaq&show_icons=true&theme=tokyonight)
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ans-ishfaq&show_icons=true&theme=onedark) -->
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ans-Ishfa&hide=c++,javascript, Python,html,css,Bootstrap)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ans-Ishfa&hide=c++,javascript, Python,html,css,Bootstrap)](https://github.com/Ans-Ishfaq/github-readme-stats)
 
 
 
