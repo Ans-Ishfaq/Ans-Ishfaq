@@ -7,15 +7,15 @@
 - 📧 My Email: ansishfaq725@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/ans-ishfaq-157b56211/
 
-<br>
+-<br>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ans-Ishfaq&hide=typescript,GLSl,Rust)](https://github.com/Ans-Ishfaq/github-readme-stats)
 
-</br>
+
   
-<br>
+-<br>
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ans-Ishfaq&show_icons=true&theme=tokyonight)
 
-</br>
+
 
   
   
